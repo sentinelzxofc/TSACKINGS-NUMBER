@@ -112,6 +112,11 @@ Once installation is complete:
 # 2. The input prompt
 # 3. The structured, colorful output with basic info and search links
 ```
+## 📷 screenshot
+
+<p align="center">
+  <img src="print.png" alt="Screenshot" width="600"/>
+</p>
 
 ## 📜 License
 
