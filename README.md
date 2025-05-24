@@ -1,7 +1,7 @@
 # TSACKINGS-NUMBER: Advanced Phone Number OSINT Framework
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sentinelzxofc/TSACKINGS-NUMBER/logo.png" alt="TSACKINGS-NUMBER Logo" width="150"/> 
+  <img src="logo.png" alt="TSACKINGS-NUMBER Logo" width="150"/> 
 
 <p align="center">
     <a href="https://github.com/sentinelzxofc/TSACKINGS-NUMBER/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"></a>
